@@ -1,6 +1,7 @@
 <h2 align="center">👋 Hello! I'm Ahmet Can DİNÇER.</h2>
 <p align="center">
   <a href="https://linkedin.com/ahmetcandincer">LinkedIn</a>
+  <a href="https://medium.com/@ahmetcandincer">Medium</a>
 </p>
 
 
@@ -8,4 +9,3 @@
 - 🌱 I’m currently learning more on Human Resources System and Identity Access Mangement
 - 📫 How to reach me: [ahmetcandncr@gmail.com](ahmetcandncr@gmail.com) on E-Mail
 - ⚡ Fun fact: Big Fan of the :zap: emoji
-- 📫 https://medium.com/@ahmetcandincer
