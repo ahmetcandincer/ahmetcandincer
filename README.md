@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hello! I'm Ahmet Can DİNÇER.</h2>
 <p align="center">
   <a href="https://linkedin.com/ahmetcandincer">LinkedIn</a>
-  Ben tarayıcıda görünen başlık metniyim
+   - 
   <a href="https://medium.com/@ahmetcandincer">Medium</a>
 </p>
 
